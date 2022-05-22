@@ -1,0 +1,21 @@
+plugins {
+    id 'java-library'
+    id 'maven-publish'
+}
+
+sourceCompatibility = 11
+
+group 'io.github.juandmercadolopez.mercadolibre.challenge.core'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+publishing {
+    publications {
+        myPublicationName(MavenPublication) {
+            from components.java
+        }
+    }
+}
