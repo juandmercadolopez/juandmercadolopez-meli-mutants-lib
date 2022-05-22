@@ -1,14 +1,14 @@
-mercadolibre/challenge/core/constant/AppConstant.java
- mercadolibre.challenge.core.constant.AppConstant
-mercadolibre/challenge/core/exception/DnaException.java
- mercadolibre.challenge.core.exception.DnaException
-mercadolibre/challenge/core/util/Util.java
- mercadolibre.challenge.core.util.Util
-mercadolibre/challenge/core/controller/Mutant.java
- mercadolibre.challenge.core.controller.Mutant
-mercadolibre/challenge/core/constant/UtilConstant.java
- mercadolibre.challenge.core.constant.UtilConstant
-mercadolibre/challenge/core/service/MutantService.java
- mercadolibre.challenge.core.service.MutantService
-mercadolibre/challenge/core/constant/ErrorConstant.java
- mercadolibre.challenge.core.constant.ErrorConstant
+com/juandmercadolopez/meli/mutants/lib/constant/ErrorConstant.java
+ com.juandmercadolopez.meli.mutants.lib.constant.ErrorConstant
+com/juandmercadolopez/meli/mutants/lib/service/MutantService.java
+ com.juandmercadolopez.meli.mutants.lib.service.MutantService
+com/juandmercadolopez/meli/mutants/lib/constant/UtilConstant.java
+ com.juandmercadolopez.meli.mutants.lib.constant.UtilConstant
+com/juandmercadolopez/meli/mutants/lib/util/Util.java
+ com.juandmercadolopez.meli.mutants.lib.util.Util
+com/juandmercadolopez/meli/mutants/lib/constant/AppConstant.java
+ com.juandmercadolopez.meli.mutants.lib.constant.AppConstant
+com/juandmercadolopez/meli/mutants/lib/exception/DnaException.java
+ com.juandmercadolopez.meli.mutants.lib.exception.DnaException
+com/juandmercadolopez/meli/mutants/lib/controller/Mutant.java
+ com.juandmercadolopez.meli.mutants.lib.controller.Mutant
